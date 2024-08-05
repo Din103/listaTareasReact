@@ -23,23 +23,10 @@ h1 {
   justify-content: center;
   align-items: center;
 }
-/* Logo de freeCodeCamp */
-
-.freecodecamp-logo-contenedor {
-  width: 100%;
-  margin: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.freecodecamp-logo {
-  width: 400px;
-  height: 50px;
-}
 /* Listas de Tareas */
 
 .tareas-lista-principal {
-  width: 600px;
+  width: 90%;
   min-height: 500px;
   background-color: #d0d0d5;
   padding: 25px;
